@@ -1,8 +1,13 @@
+# RUTA GITHUB
+https://github.com/fisfrankhc/bootcamp_llm_-tarea5-
+
+
 # Proyecto de Generación de Texto
 
 Este proyecto utiliza el modelo `gpt-4o-mini` de OpenAI para tareas de generación de texto. El modelo se seleccionó debido a su alta calidad de generación y eficiencia en el uso de recursos.
 
 ## Tabla de Contenidos
+- [RUTA GITHUB](#ruta-github)
 - [Proyecto de Generación de Texto](#proyecto-de-generación-de-texto)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Instalación de Dependencias](#instalación-de-dependencias)
